@@ -25,7 +25,7 @@
 \Vitatrue % comment to disable author(s) vita
 
 \Indextrue % comment to disable index 
-	
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % document IDs
 
@@ -39,27 +39,27 @@
 \newcommand{\documentAdviserTitle}{Engr.} 
 \newcommand{\documentAdviser}{Melvin K. Cabatuan}
 
-\newcommand{\examinerChairTitle}{Dr.} 
-\newcommand{\examinerChair}{Donabel de Veas-Abuan}
+\newcommand{\examinerChairTitle}{Engr.} 
+\newcommand{\examinerChair}{Maria Antonette C. Roque}
 
 % Sort in alphabetically ascending manner the surnames of the examiners
-\newcommand{\examinerATitle}{Dr.} 
-\newcommand{\examinerA}{Jay Robert del Rosario}
+\newcommand{\examinerATitle}{Engr.} 
+\newcommand{\examinerA}{Donabel D. Abuan}
 
-\newcommand{\examinerBTitle}{Dr.} 
-\newcommand{\examinerB}{Roderick Yap}
+\newcommand{\examinerBTitle}{Engr.} 
+\newcommand{\examinerB}{Argel A. Bandala}
 
 % Note that \examinerC and \examinerD only applies for PhD dissertations
-\newcommand{\examinerCTitle}{Dr.} 
-\newcommand{\examinerC}{Rafael W. Sison}
+\newcommand{\examinerCTitle}{Engr.} 
+\newcommand{\examinerC}{Rionel B. Caldo}
 
-\newcommand{\examinerDTitle}{Dr.} 
-\newcommand{\examinerD}{Apolinario V. Valenzuela}
+\newcommand{\examinerDTitle}{Engr.} 
+\newcommand{\examinerD}{Jay Robert B. del Rosario}
 
 \newcommand{\deanTitle}{Dr.} 
-\newcommand{\deanName}{Rosemary R. Seva}
+\newcommand{\deanName}{Jonathan R. Dungca}
 
-\newcommand{\groupID}{Ariba} % group ID number is for undergraduates as of this formatting
+\newcommand{\groupID}{HERBS} % group ID number is for undergraduates as of this formatting
 
 \newcommand{\numberOfAuthors}{3} % adapt the number of names below accordingly and sort the sunames in alphabetically ascending manner, like the given example
 
@@ -70,18 +70,19 @@
 \defineAuthor{firstname2}{Marc Janssen C.}
 
 \defineAuthor{surname3}{Gumatay}
-\defineAuthor{firstname3}{Louie Bonifacio}
+\defineAuthor{firstname3}{Louie B.}
 
-\newcommand{\documentTitle}{Cognitive Rehabilitation for Hand injured people using Android App} % put tilde (~) between words to indicate non-breaking adjacent words
+\newcommand{\documentTitle}{ZigBee controlled Multi Terrain Rover using Android} % put tilde (~) between words to indicate non-breaking adjacent words
 
-\newcommand{\keywords}{alloy system, characterization, InP, InGaAs}
+\newcommand{\keywords}{microcontroller, ZigBee, ARDUINO, system, Rover, Terrain, sensor}
 
-\newcommand{\approvalDate}{April~27,~\the\year} % put here the date when all examiners and/or their approved representative have given their approval; do not remove the tildes in order to not break the date; the submission deadline can also be placed as the date
+\newcommand{\approvalDate}{May~23,~2016} % put here the date when all examiners and/or their approved representative have given their approval; do not remove the tildes in order to not break the date; the submission deadline can also be placed as the date
 
 \hyphenation{op-tical net-works semi-conduc-tor evi-dent re-la-tive re-si-den-tial po-la-ri-za-tion so-lu-tion/s} % for correcting bad hyphenation
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./format/postamble.ltx} 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % for placing user-defined-ambles
 
@@ -95,6 +96,16 @@
 %  the excludeonly package provides the logically opposite command: \excludeonly{<file list>}
 
 \includeonly{
+introduction,
+literature_review,
+theoretical_considerations,
+design_considerations,
+methodology,
+results_and_discussion,
+conclusions,
+answers_to_questions,
+usage_examples,
+publication,
 vita,
 }
 
@@ -105,7 +116,7 @@ vita,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./format/pre_toc.ltx}
 \cleardoublepage
-\begin{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{SingleSpace}
 \tableofcontents
@@ -250,11 +261,10 @@ vita,
 Produced: \usdate\today, \currenttime \\
 \end{flushright}
 \cleardoublepage 
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \SingleSpacing
 \appendix
-\begin{comment}
 \renewcommand{\thechapter}{\Alph{chapter}}
 \renewcommand{\thesection}{\thechapter\arabic{section}}
 \appto\appendix{\renewcommand\thechapter{\AlphAlph{\value{chapter}}}} % for increasing appendix chapters beyond Z, i.e. AA, AB, etc.
@@ -279,17 +289,17 @@ Produced: \usdate\today, \currenttime \\
 	\include{publication}
 \fi
 \cleardoublepage
-\end{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifVita
 	\include{vita}
 \fi
 \cleardoublepage
-\begin{comment}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \ifIndex
 	\printindex
 \fi
 \cleardoublepage
-\end{comment}
+
 \end{document}
