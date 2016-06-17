@@ -2,30 +2,207 @@
 % Encoding: Cp1252
 
 
-@Article{Einstein,
-  Title                    = {{Zur Elektrodynamik bewegter K{\"o}rper}. ({German})
- [{On} the electrodynamics of moving bodies]},
-  Author                   = {Albert Einstein},
-  Journal                  = {Annalen der Physik},
-  Year                     = {1905},
-  Number                   = {10},
-  Pages                    = {891--921},
-  Volume                   = {322},
-
-  Doi                      = {http://dx.doi.org/10.1002/andp.19053221004}
+@Other{Alliance2016,
+  Title                    = {What is ZigBee?},
+  Author                   = {ZigBee Alliance},
+  Month                    = {jun},
+  Url                      = {http://www.zigbee.org/what-is-zigbee/},
+  Year                     = {2016}
 }
 
-@Article{ISO800002,
-  Title                    = {80000-2},
-  Author                   = {{ISO}},
-  Journal                  = {Quantities and units--Part 2: Mathematical signs and symbols to be used in the natural sciences and technology},
-  Year                     = {2009}
+@InProceedings{4559539,
+  Title                    = {Remote power On/Off control and current measurement for home electric outlets based on a low-power embedded board and ZigBee communication},
+  Author                   = {Ying-Wen Bai and Chi-Huang Hung},
+  Booktitle                = {2008 IEEE International Symposium on Consumer Electronics},
+  Year                     = {2008},
+  Month                    = {April},
+  Pages                    = {1-4},
+
+  Doi                      = {10.1109/ISCE.2008.4559539},
+  ISSN                     = {0747-668X},
+  Keywords                 = {Visual BASIC;circuit breakers;domestic appliances;domestic safety;electric connectors;electric current measurement;home automation;power control;power engineering computing;telecontrol;Visual Basic;ZigBee communication;ZigBee control module;circuit breaker;current measurement;graphic user interface;home electric outlets;interface software;low-power embedded board;measurement circuit;remote power on/off control;safety;server module;user-friendly operation;Circuit breakers;Communication system control;Current measurement;Graphics;Measurement units;Safety;Software design;Visual BASIC;Voltage;ZigBee;Current Measurement;Embedded Board;Home Electric Outlet;ZigBee}
 }
 
-@Book{Oetiker2014,
-  Title                    = {The Not So Short Introduction to \LaTeXe
-Or \LaTeXe in 157 minutes},
-  Author                   = {Oetiker, Tobias and Partl, Hubert and Hyna, Irene and Schlegl, Elisabeth},
+@Conference{Bharathi2013,
+  Title                    = {Design and Construction of Rescue Robot and 
+Pipeline Inspection Using Zigbee},
+  Author                   = {Bharathi, B. and Suchitha Samuel, B.},
+  Booktitle                = {International Journal of Scientific Engineering and Research},
+  Year                     = {2013},
+  Month                    = {September},
+  Number                   = {1},
+  Volume                   = {1},
+
+  Owner                    = {Dan},
+  Timestamp                = {2016.06.16}
+}
+
+@InProceedings{6398700,
+  Title                    = {SMaRTCaR: An integrated smartphone-based platform to support traffic management applications},
+  Author                   = {C. Campolo and A. Iera and A. Molinaro and S. Y. Paratore and G. Ruggeri},
+  Booktitle                = {Vehicular Traffic Management for Smart Cities (VTM), 2012 First International Workshop on},
+  Year                     = {2012},
+  Month                    = {Nov},
+  Pages                    = {1-6},
+
+  Doi                      = {10.1109/VTM.2012.6398700},
+  Keywords                 = {automobiles;data handling;information retrieval;smart phones;traffic engineering computing;SMaRTCaR;automotive diagnostic services;data collection;data distribution;data retrieval;in-vehicle network;integrated smartphone-based platform;kinematics information;remote control;traffic management applications;value-added services;wireless interface;Hardware;Monitoring;Prototypes;Sensors;Smart phones;Software;Vehicles;Android;Arduino;CAN bus;car;sensors;smartphone;traffic management}
+}
+
+@Article{chang2012design,
+  Title                    = {A Design for an Intelligent Car that Controlled by Smartphone Based on Android System and Bluetooth Communication [J]},
+  Author                   = {Chang-qing, Lin and Hai-liang, Cheng},
+  Journal                  = {Shanxi Electronic Technology},
+  Year                     = {2012},
+  Pages                    = {024},
+  Volume                   = {3}
+}
+
+@InProceedings{4108460,
+  Title                    = {Remote-controlled Home Robot Server with Zigbee Sensor Network},
+  Author                   = {J. m. Choi and B. k. Ahn and Y. s. Cha and T. y. Kuc},
+  Booktitle                = {2006 SICE-ICASE International Joint Conference},
+  Year                     = {2006},
+  Month                    = {Oct},
+  Pages                    = {3739-3743},
+
+  Doi                      = {10.1109/SICE.2006.315025},
+  Keywords                 = {Internet;control engineering computing;home automation;home computing;personal area networks;service robots;telerobotics;ubiquitous computing;Zigbee sensor network;embedded board;home service robot;remote-controlled virtual home robot server;ubiquitous home network;wired home network device;wireless PAN technology;wireless personal area network;Control systems;Home appliances;Home automation;IP networks;Network servers;Robot kinematics;Robot sensing systems;Web server;Wireless sensor networks;ZigBee;Home Network;Remote control;Virtual Home Robot Server;Zigbee Sensor Network}
+}
+
+@Article{QuDao2012,
+  Title                    = {Design of Intelligent Mobile Monitor System Based on ZigBee and Android},
+  Author                   = {Dao, Q. and Jifeng, Y. and Wei, C.},
+  Journal                  = {Microcontrollers \& Embedded System},
+  Year                     = {2012},
+  Number                   = {6},
+  Pages                    = {10-12},
+  Volume                   = {12},
+
+  Owner                    = {Dan},
+  Timestamp                = {2016.06.16}
+}
+
+@Conference{GopiKrishna2012,
+  Title                    = {Face Detection System On AdaBoost Algorithm Using Haar 
+Classifiers},
+  Author                   = {Gopi Krishna, M. and Srinivasulu, A.},
+  Booktitle                = {International Journal of Modern Engineering Researc},
+  Year                     = {2012},
+  Number                   = {5},
+  Pages                    = {3556-3560},
+  Volume                   = {2},
+
+  Owner                    = {Dan},
+  Timestamp                = {2016.06.16}
+}
+
+@InProceedings{1501248,
+  Title                    = {ROBHAZ-rescue: rough-terrain negotiable teleoperated mobile robot for rescue mission},
+  Author                   = {Sungchul Kang and Woosub Lee and Munsang Kim and Kyungchul Shin},
+  Booktitle                = {IEEE International Safety, Security and Rescue Rototics, Workshop, 2005.},
+  Year                     = {2005},
+  Month                    = {June},
+  Pages                    = {105-110},
+
+  Doi                      = {10.1109/SSRR.2005.1501248},
+  ISSN                     = {2374-3247},
+  Keywords                 = {mobile robots;path planning;service robots;telerobotics;ROBHAZ-DT3;ROBHAZ-rescue;chained double-track mechanism;passive adaptation mechanism;remote control;rescue mission;rough-terrain negotiable teleoperated mobile robot;Actuators;Automatic control;Humans;Intelligent robots;Legged locomotion;Mobile robots;Robot sensing systems;Terrain mapping;Vehicles;Wheels}
+}
+
+@InProceedings{5649481,
+  Title                    = {Design and implementation of user-friendly remote controllers for rescue robots used at fire sites},
+  Author                   = {Y. D. Kim and J. H. Kang and Duk-Han Sun and Jeon-Il Moon and Young-Sun Ryuh and J. An},
+  Booktitle                = {Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on},
+  Year                     = {2010},
+  Month                    = {Oct},
+  Pages                    = {377-382},
+
+  Doi                      = {10.1109/IROS.2010.5649481},
+  ISSN                     = {2153-0858},
+  Keywords                 = {control system synthesis;disasters;emergency services;service robots;telecontrol;disasters;emergency situations;fire sites;firefighters;joystick-based controller;performance evaluation;rescue operations;rescue robots;user-friendly operating interface;user-friendly remote controllers;wireless remote controllers}
+}
+
+@Other{Kolhari2014,
+  Title                    = {Wireless Monitoring and Controlling Rescue Robot using Zigbee},
+  Author                   = {Kolhari, D.},
+  Month                    = {oct},
+  Url                      = {http://www.engineersgarage.com/contribution/wireless-monitoring-and-controlling-rescue-robot-using-zigbee},
   Year                     = {2014}
+}
+
+@Article{5069840,
+  Title                    = {Mobile robots in mine rescue and recovery},
+  Author                   = {R. R. Murphy and J. Kravitz and S. L. Stover and R. Shoureshi},
+  Journal                  = {IEEE Robotics Automation Magazine},
+  Year                     = {2009},
+
+  Month                    = {June},
+  Number                   = {2},
+  Pages                    = {91-103},
+  Volume                   = {16},
+
+  Doi                      = {10.1109/MRA.2009.932521},
+  ISSN                     = {1070-9932},
+  Keywords                 = {accidents;disasters;mining;mobile robots;mine recovery;mine rescue;mining accidents;mining disasters;mobile robots;Accidents;Atmosphere;Communications technology;Explosives;Fires;Health and safety;Humans;Mobile robots;Storms;Temperature}
+}
+
+@Conference{Pornpanomchai2011,
+  Title                    = {Operating Radio-Controlled Cars by a Computer},
+  Author                   = {Pornpanomchai, C. and Member and IACSIT and Sukklay, P.},
+  Booktitle                = {IACSIT International Journal of Engineering and Technology},
+  Year                     = {2011},
+  Number                   = {3},
+  Volume                   = {3},
+
+  Owner                    = {Dan},
+  Timestamp                = {2016.06.16}
+}
+
+@Conference{Rooker2007,
+  Title                    = {Multi-robot exploration under the constraints of wireless networking},
+  Author                   = {Rooker, M. and Birk, A.},
+  Booktitle                = {Control Engineering Practice},
+  Year                     = {2007},
+  Month                    = {April},
+  Number                   = {4},
+  Pages                    = {435-445},
+  Volume                   = {15},
+
+  Owner                    = {Dan},
+  Timestamp                = {2016.06.16}
+}
+
+@Article{IAES20133743,
+  Title                    = {Research On Android Intelligent Phones Controlling the Car to Run},
+  Author                   = {Jinsong Song and Zhenghua Xin and Wei Ding},
+  Journal                  = {TELKOMNIKA Indonesian Journal of Electrical Engineering},
+  Year                     = {2013},
+  Number                   = {12},
+  Pages                    = {7438-7445},
+  Volume                   = {11},
+
+  Abstract                 = {The system finished the android smart mobile phone to control the intelligent car to avoid the obstacles wirelessly based on the bluetooth communication protocol. The android system is popular. But researches on applying it in the wireless sensors are very few. This paper allowed the bluetooth-enabled android phones to communicate with sensors wirelessly through our designed software. The software is installed simplely on the phones.The operator can run the software and touch the screen on the intelligent phones to drive the car. When he/she presses the front / the back/the left/the right on the LCD screen of the phones, the car can move forward / backward / the left or / the right. In addition, the gravity sensing of the smart telephone can also control the motion of the car wirelessly in the same way. The car itself can avoid the obstacle intelligently. The ultrasonic sensor can finish the rotation of the 180 degrees to detect the obstacle with the help of the steering gear. And the system also designed the PCB and made the hardware by ourself. The system has advantages of low-cost, convenience and feasibility},
+  Url                      = {http://iaesjournal.com/online/index.php/TELKOMNIKA/article/view/3743}
+}
+
+@Other{Tyson2000,
+  Title                    = {How Radio Controlled Toys Work},
+  Author                   = {Tyson, J.},
+  Month                    = {dec},
+  Url                      = {http://electronics.howstuffworks.com/rc-toy.htm},
+  Year                     = {2000}
+}
+
+@InProceedings{4655164,
+  Title                    = {Remote control realization of distributed rescue robots via the wireless network},
+  Author                   = {Syh-Shiuh Yeh and Cheng-Chung Hsu and Tzu-Chiang Shih and Jen-Pin Hsiao and Pau-Lo Hsu},
+  Booktitle                = {SICE Annual Conference, 2008},
+  Year                     = {2008},
+  Month                    = {Aug},
+  Pages                    = {2928-2932},
+
+  Doi                      = {10.1109/SICE.2008.4655164},
+  Keywords                 = {mobile robots;monitoring;motion control;service robots;telecontrol;wireless LAN;wireless sensor networks;IEEE 802.11 g;ZigBee;communication channel;distributed rescue robot;motion detection;remote control;video signal transmission;voice signal transmission;wireless sensor network;Communication system control;Distributed control;Earth;Electronic mail;Remote monitoring;Robot sensing systems;Wireless communication;Wireless networks;Wireless sensor networks;ZigBee;802.11;WSN;ZigBee;localization;rescue robot}
 }
 

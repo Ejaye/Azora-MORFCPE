@@ -1,6 +1,19 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: literature_review.aux
+A level-1 auxiliary file: theoretical_considerations.aux
+A level-1 auxiliary file: design_considerations.aux
+A level-1 auxiliary file: methodology.aux
+A level-1 auxiliary file: results_and_discussion.aux
+A level-1 auxiliary file: conclusions.aux
+The style file: apalike.bst
+A level-1 auxiliary file: answers_to_questions.aux
+A level-1 auxiliary file: usage_examples.aux
+A level-1 auxiliary file: publication.aux
 A level-1 auxiliary file: vita.aux
-I found no \citation commands---while reading file document.aux
-I found no \bibdata command---while reading file document.aux
-I found no \bibstyle command---while reading file document.aux
-(There were 3 error messages)
+Database file #1: references.bib
+Warning--I didn't find a database entry for "Oetiker2014"
+Warning--I didn't find a database entry for "ISO800002"
+Warning--can't use both volume and number fields in Bharathi2013
+Warning--can't use both volume and number fields in Rooker2007
+(There were 4 warnings)

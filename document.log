@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.31)  30 MAY 2016 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.31)  17 JUN 2016 08:59
 entering extended mode
 **document.tex
 (document.tex
@@ -1026,6 +1026,32 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+
+! LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \begin{align}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 (format/postamble.ltx
 \document@idxfile=\write6
 
@@ -1313,26 +1339,146 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen276
 \Gm@dimlist=\toks84
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))) (document.aux (answers_to_questions.aux) (vita.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 102.
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))) (document.aux (introduction.aux)
+(literature_review.aux) (theoretical_considerations.aux) (design_considerations.aux) (methodology.aux)
+(results_and_discussion.aux) (conclusions.aux) (answers_to_questions.aux) (usage_examples.aux
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+Package datagidx Warning: No term `not:output_sigt' defined. Ignoring on input line 6.
+
+
+Package datagidx Warning: No term `not:input_sigt' defined. Ignoring on input line 7.
+
+
+Package datagidx Warning: No term `not:ir' defined. Ignoring on input line 8.
+
+
+Package datagidx Warning: No term `ac' defined. Ignoring on input line 20.
+
+
+Package datagidx Warning: No term `ac' defined. Ignoring on input line 21.
+
+
+Package datagidx Warning: No term `ac' defined. Ignoring on input line 22.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 23.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 24.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 25.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 26.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 27.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 28.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 29.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 30.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 31.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 32.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 33.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 34.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 35.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 36.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 37.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 38.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 39.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 40.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 41.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 42.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 43.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 44.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 45.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 46.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 47.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 48.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 49.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 50.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 51.
+
+
+Package datagidx Warning: No term `not:set' defined. Ignoring on input line 60.
+
+
+Package datagidx Warning: No term `not:universalSet' defined. Ignoring on input line 61.
+
+
+Package datagidx Warning: No term `not:emptySet' defined. Ignoring on input line 62.
+
+
+Package datagidx Warning: No term `not:cardinality' defined. Ignoring on input line 63.
+
+) (publication.aux) (vita.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 107.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count359
 \scratchdimen=\dimen277
@@ -1350,7 +1496,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 102.
+LaTeX Info: Redefining \microtypecontext on input line 107.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1364,7 +1510,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 \AtBeginShipoutBox=\box83
-Package hyperref Info: Link coloring ON on input line 102.
+Package hyperref Info: Link coloring ON on input line 107.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1376,10 +1522,10 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 102.
-LaTeX Info: Redefining \ref on input line 102.
-LaTeX Info: Redefining \pageref on input line 102.
-LaTeX Info: Redefining \nameref on input line 102.
+LaTeX Info: Redefining \nameref on input line 107.
+LaTeX Info: Redefining \ref on input line 107.
+LaTeX Info: Redefining \pageref on input line 107.
+LaTeX Info: Redefining \nameref on input line 107.
 (document.out) (document.out)
 \@outlinefile=\write8
  ABD: EveryShipout initializing macros
@@ -1419,72 +1565,533 @@ LaTeX Info: Redefining \nameref on input line 102.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(format/pre_toc.ltx <figure/../format/DLSU_Logo.png, id=14, 158.994pt x 158.994pt>
+(format/pre_toc.ltx <figure/../format/DLSU_Logo.png, id=190, 158.994pt x 158.994pt>
 File: figure/../format/DLSU_Logo.png Graphic file (type png)
- <use figure/../format/DLSU_Logo.png>
+
+<use figure/../format/DLSU_Logo.png>
 Package pdftex.def Info: figure/../format/DLSU_Logo.png used on input line 7.
 (pdftex.def)             Requested size: 60.10902pt x 60.1078pt.
-
-[1
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/../format/DLSU_Logo.png>])
-Excluding 'comment' comment. Excluding 'comment' comment. (vita.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 1.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 117.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 117.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `phv' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+ (document.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
- <figure/vita_photo.pdf, id=23, 150.5625pt x 150.5625pt>
-File: figure/vita_photo.pdf Graphic file (type pdf)
 
-<use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 11.
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=228, 614.295pt x 794.97pt>
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 30.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [2
+
+
+
+ <./figure/../format/dlsu_thesis_paper_letterhead.pdf>]
+Overfull \hbox (10.75226pt too wide) in paragraph at lines 48--48
+ [][] [][][]\OT1/ptm/b/n/12 CONCLUSIONS, REC-OM-MEN-DA-TIONS, AND FU-TURE DI-REC- 
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 57.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [3]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 87.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[4])
+\tf@toc=\write9
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 117.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [5] (document.lof)
+\tf@lof=\write10
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 121.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [6
+
+] (document.lot)
+\tf@lot=\write11
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 125.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [7
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 134.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[8
+
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 147.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [9
+
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 156.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[10
+
+
+] (document.lol)
+\tf@lol=\write12
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 160.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [11
+
+]
+\c@ttl@toc@chapters=\count367
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 169.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 169.
+ (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 171.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [1
+
+
+] (introduction.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 12.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [2
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 21.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 26.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [3]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 39.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[4]
+! Undefined control sequence.
+l.43 ...ines, sand/granulated ground, steps\stairs
+                                                   and severely uneven roads.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 55.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 57.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [5]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 60.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[6]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ <figure/model.png, id=510, 611.28375pt x 149.8097pt>
+File: figure/model.png Graphic file (type png)
+ <use figure/model.png>
+Package pdftex.def Info: figure/model.png used on input line 66.
+(pdftex.def)             Requested size: 361.34999pt x 88.55609pt.
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 74.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [7 <./figure/model.png>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 79.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [8] <figure/gantt.png, id=521, 857.2025pt x 424.58624pt>
+File: figure/gantt.png Graphic file (type png)
+
+<use figure/gantt.png>
+Package pdftex.def Info: figure/gantt.png used on input line 83.
+(pdftex.def)             Requested size: 361.34999pt x 178.97934pt.
+)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 171.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [9 <./figure/gantt.png>] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 182.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [10
+
+
+
+] (literature_review.tex
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 6.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [11
+
+]
+Overfull \hbox (21.02937pt too wide) in paragraph at lines 7--7
+[]\OT1/phv/b/n/17.28 Design of In-tel-li-gent Mo-bile Mon-i-tor Sys-tem Based
+ []
+
+
+Overfull \hbox (17.3666pt too wide) in paragraph at lines 10--10
+[]\OT1/phv/b/n/17.28 SMaRTCaR: an in-te-grated smartphone-based plat-
+ []
+
+
+Overfull \hbox (4.70015pt too wide) in paragraph at lines 10--10
+\OT1/phv/b/n/17.28 form to sup-port traf-fic man-age-ment ap-pli-ca-tions 
+ []
+
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 12.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [12]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 21.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[13]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 27.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [14])
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 182.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [15] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 194.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [16
+
+
+
+] (document.ptc)pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has been already used, dupli
+cate ignored
+<to be read again> 
+                   \relax 
+l.205 \include{design_considerations}
+                                     
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 205.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [14
+
+
+
+] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 216.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [17
+
+
+
+] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 228.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [23
+
+
+
+] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 241.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [26
+
+
+
+] (document.bbl
+bibitemlist
+)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 256.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [30
+
+
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 257.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+
+[31] (document.ptc)
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 269.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [32
+
+
+]
+File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
+
+<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 278.
+(pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
+ [40
+
+
+
+] (vita.tex
+<figure/vita_photo.pdf, id=665, 150.5625pt x 150.5625pt>
+File: figure/vita_photo.pdf Graphic file (type pdf)
+ <use figure/vita_photo.pdf>
+Package pdftex.def Info: figure/vita_photo.pdf used on input line 10.
 (pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
 File: figure/vita_photo.pdf Graphic file (type pdf)
  <use figure/vita_photo.pdf>
 Package pdftex.def Info: figure/vita_photo.pdf used on input line 18.
 (pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
 File: figure/vita_photo.pdf Graphic file (type pdf)
- <use figure/vita_photo.pdf>
-Package pdftex.def Info: figure/vita_photo.pdf used on input line 24.
+
+<use figure/vita_photo.pdf>
+Package pdftex.def Info: figure/vita_photo.pdf used on input line 26.
 (pdftex.def)             Requested size: 85.8691pt x 85.87204pt.
 )
-<figure/../format/dlsu_thesis_paper_letterhead.pdf, id=24, 614.295pt x 794.97pt>
 File: figure/../format/dlsu_thesis_paper_letterhead.pdf Graphic file (type pdf)
-
-<use figure/../format/dlsu_thesis_paper_letterhead.pdf>
-Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 285.
+ <use figure/../format/dlsu_thesis_paper_letterhead.pdf>
+Package pdftex.def Info: figure/../format/dlsu_thesis_paper_letterhead.pdf used on input line 290.
 (pdftex.def)             Requested size: 614.31223pt x 794.99231pt.
- [2
+ [76
 
 
 
 
 
- <./figure/../format/dlsu_thesis_paper_letterhead.pdf> <./figure/vita_photo.pdf>] Excluding 'comment' comment.
+
+ <./figure/vita_photo.pdf>]
+Excluding 'comment' comment.
 
 Package caption Warning: Unused \captionsetup[table] on input line 32.
 See the caption package documentation for explanation.
 
+\tf@ptc=\write13
 
-Package caption Warning: Unused \captionsetup[figure] on input line 42.
-See the caption package documentation for explanation.
+Package datagidx Warning: Rerun required to sort the index/glossary databases.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
-(document.aux (vita.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
+(document.aux (introduction.aux) (literature_review.aux) (theoretical_considerations.aux) (design_considerations.aux)
+(methodology.aux) (results_and_discussion.aux) (conclusions.aux) (answers_to_questions.aux) (usage_examples.aux
+
+Package datagidx Warning: No term `not:output_sigt' defined. Ignoring on input line 6.
+
+
+Package datagidx Warning: No term `not:input_sigt' defined. Ignoring on input line 7.
+
+
+Package datagidx Warning: No term `not:ir' defined. Ignoring on input line 8.
+
+
+Package datagidx Warning: No term `ac' defined. Ignoring on input line 20.
+
+
+Package datagidx Warning: No term `ac' defined. Ignoring on input line 21.
+
+
+Package datagidx Warning: No term `ac' defined. Ignoring on input line 22.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 23.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 24.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 25.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 26.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 27.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 28.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 29.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 30.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 31.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 32.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 33.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 34.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 35.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 36.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 37.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 38.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 39.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 40.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 41.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 42.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 43.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 44.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 45.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 46.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 47.
+
+
+Package datagidx Warning: No term `html' defined. Ignoring on input line 48.
+
+
+Package datagidx Warning: No term `xml' defined. Ignoring on input line 49.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 50.
+
+
+Package datagidx Warning: No term `css' defined. Ignoring on input line 51.
+
+
+Package datagidx Warning: No term `not:set' defined. Ignoring on input line 60.
+
+
+Package datagidx Warning: No term `not:universalSet' defined. Ignoring on input line 61.
+
+
+Package datagidx Warning: No term `not:emptySet' defined. Ignoring on input line 62.
+
+
+Package datagidx Warning: No term `not:cardinality' defined. Ignoring on input line 63.
+
+) (publication.aux) (vita.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 300.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 300.
 
 
 Package rerunfilecheck Warning: File `document.out' has changed.
@@ -1492,24 +2099,161 @@ Package rerunfilecheck Warning: File `document.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `document.out':
-(rerunfilecheck)             Before: B3D50F0337832CBD8F070E4C51453AAE;114
-(rerunfilecheck)             After:  E8978E54515034790C478DD4605F378A;41.
+(rerunfilecheck)             Before: 6055A73357BDF96031CAD3E45364D3F1;3617
+(rerunfilecheck)             After:  A6C2A8CC2A1A4F92420D6B923081A427;3609.
  ) 
 Here is how much of TeX's memory you used:
- 28267 strings out of 493698
- 481992 string characters out of 3144409
- 683282 words of memory out of 3000000
- 31053 multiletter control sequences out of 15000+200000
- 10116 words of font info for 34 fonts, out of 3000000 for 9000
+ 29035 strings out of 493698
+ 492382 string characters out of 3144409
+ 709761 words of memory out of 3000000
+ 31374 multiletter control sequences out of 15000+200000
+ 33574 words of font info for 170 fonts, out of 3000000 for 9000
  1033 hyphenation exceptions out of 8191
- 62i,14n,54p,1816b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{appendix.B} has been referenced but does not exist, replaced by a fixed one
+ 62i,15n,80p,1816b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{lstlisting.B.16} has been referenced but does not exist, replaced by a fixed one
 
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8
-a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
-Output written on document.pdf (2 pages, 99156 bytes).
+pdfTeX warning (dest): name{lstlisting.B.15} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.14} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.13} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.12} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.11} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.10} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.9} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.8} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.5} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.4} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{datagidx.00036} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.38} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.B.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.7} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.36} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{lstlisting.B.6} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.34} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.32} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.18} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{appendix.C} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.11} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.10} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.B.9.1.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.B.9.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.9} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.8} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.7} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.6} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.5} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.4} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.B.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.8.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.8} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.7.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.7.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.7} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.6.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.6} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.5.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.5.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.5} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.4.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.4.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.4} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.3.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.A.2.1.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.A.2.1.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.A.2.1.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.A.2.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.A.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.4} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.6.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist, replaced by a fixed one
+
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (36 pages, 497391 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 6700 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 735 PDF objects out of 1000 (max. 8388607)
+ 176 named destinations out of 1000 (max. 500000)
+ 22934 words of extra memory for PDF output out of 24883 (max. 10000000)
 

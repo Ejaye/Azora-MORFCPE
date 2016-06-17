@@ -1,39 +1,57 @@
 \contentsline {chapter}{Table of Contents}{ii}{section*.1}
-\contentsline {chapter}{List of Figures}{v}{section*.2}
-\contentsline {chapter}{List of Tables}{vi}{section*.3}
-\contentsline {chapter}{Abbreviations}{vii}{section*.4}
-\contentsline {chapter}{Notation}{viii}{section*.6}
-\contentsline {chapter}{Glossary}{ix}{section*.8}
-\contentsline {chapter}{Listings}{x}{section*.10}
+\contentsline {chapter}{List of Figures}{vi}{section*.2}
+\contentsline {chapter}{List of Tables}{vii}{section*.3}
+\contentsline {chapter}{Abbreviations}{viii}{section*.4}
+\contentsline {chapter}{Notation}{ix}{section*.6}
+\contentsline {chapter}{Glossary}{x}{section*.8}
+\contentsline {chapter}{Listings}{xi}{section*.10}
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introduction}}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background of the Study}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Prior Studies}{2}{section.1.2}
-\contentsline {section}{\numberline {1.3}Problem Statement}{2}{section.1.3}
-\contentsline {section}{\numberline {1.4}Objectives}{3}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}General Objective(s)}{3}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Specific Objectives}{3}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Significance of the Study}{3}{section.1.5}
-\contentsline {section}{\numberline {1.6}Assumptions, Scope and Delimitations}{4}{section.1.6}
-\contentsline {section}{\numberline {1.7}Description and Methodology}{4}{section.1.7}
-\contentsline {section}{\numberline {1.8}Overview}{5}{section.1.8}
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Summary}{9}{section.2.1}
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{3}{chapter.3}
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Objectives}{3}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}General Objectives}{3}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Specific Objectives}{3}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}Significance of the Study}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Scope and Delimitation}{5}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Scope and Delimitation}{5}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Assumptions}{5}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Description and Methodology}{6}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Description}{6}{subsection.1.6.1}
+\contentsline {subsubsection}{\numberline {1.6.1.1}Mechanical}{6}{subsubsection.1.6.1.1}
+\contentsline {subsubsection}{\numberline {1.6.1.2}Wireless Communication}{6}{subsubsection.1.6.1.2}
+\contentsline {subsubsection}{\numberline {1.6.1.3}Human Recognition}{7}{subsubsection.1.6.1.3}
+\contentsline {subsection}{\numberline {1.6.2}Methodology}{8}{subsection.1.6.2}
+\contentsline {subsubsection}{\numberline {1.6.2.1}Electrical and Mechanical Testing}{8}{subsubsection.1.6.2.1}
+\contentsline {subsubsection}{\numberline {1.6.2.2}Communication and Human Recognition Testing}{8}{subsubsection.1.6.2.2}
+\contentsline {section}{\numberline {1.7}Gantt chart}{9}{section.1.7}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Literature Review}}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}Remote-controlled Home Robot Server with ZigBee Sensor Network}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Remote power On\/Off control and current measurement for home electric outlets based on a low\discretionary {-}{}{}power embedded board and ZigBee communication}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Design of Intelligent Mobile Monitor System Based on ZigBee and Android}{12}{section.2.3}
+\contentsline {section}{\numberline {2.4}SMaRTCaR: an integrated smartphone-based platform to support traffic management applications}{12}{section.2.4}
+\contentsline {section}{\numberline {2.5}Design and Construction of Rescue Robot and Pipeline Inspection Using Zigbee}{13}{section.2.5}
+\contentsline {section}{\numberline {2.6}Mobile robots in mine rescue and recovery}{13}{section.2.6}
+\contentsline {section}{\numberline {2.7}Multi-robot exploration under the constraints of wireless networking}{14}{section.2.7}
+\contentsline {section}{\numberline {2.8}ROBHAZ-rescue: rough-terrain negotiable teleoperated mobile robot for rescue mission}{14}{section.2.8}
+\contentsline {section}{\numberline {2.9}Remote control realization of distributed rescue robots via the wireless network}{15}{section.2.9}
+\contentsline {section}{\numberline {2.10}Design and implementation of user-friendly remote controllers for rescue robots used at fire sites}{15}{section.2.10}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Theoretical Considerations}}{16}{chapter.3}
 \contentsline {section}{\numberline {3.1}Summary}{12}{section.3.1}
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{4}{chapter.4}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Design Considerations}}{14}{chapter.4}
 \contentsline {section}{\numberline {4.1}Summary}{16}{section.4.1}
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{5}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Methodology}}{17}{chapter.5}
 \contentsline {section}{\numberline {5.1}Implementation}{18}{section.5.1}
 \contentsline {section}{\numberline {5.2}Evaluation}{20}{section.5.2}
 \contentsline {section}{\numberline {5.3}Summary}{22}{section.5.3}
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussion}}{6}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Results and Discussion}}{23}{chapter.6}
 \contentsline {section}{\numberline {6.1}Summary}{25}{section.6.1}
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{7}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Conclusions, Recommendations, and Future Directives}}{26}{chapter.7}
 \contentsline {section}{\numberline {7.1}Concluding Remarks}{27}{section.7.1}
 \contentsline {section}{\numberline {7.2}Contributions}{27}{section.7.2}
 \contentsline {section}{\numberline {7.3}Recommendations}{27}{section.7.3}
 \contentsline {section}{\numberline {7.4}Future Prospects}{29}{section.7.4}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this Thesis}}{9}{appendix.A}
+\contentsline {chapter}{References}{30}{section*.14}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Answers to Questions to this project}}{32}{appendix.A}
 \contentsline {section}{\numberline {A1}How important is the problem to practice?}{32}{section.A.1}
 \contentsline {section}{\numberline {A2}How will you know if the solution/s that you will achieve would be better than existing ones?}{32}{section.A.2}
 \contentsline {subsection}{\numberline {A2.1}How will you measure the improvement/s?}{32}{subsection.A.2.1}
@@ -55,7 +73,7 @@
 \contentsline {subsection}{\numberline {A7.2}Is there an approximation that can arrive at the essentially the same proposed solution/s more easily?}{38}{subsection.A.7.2}
 \contentsline {section}{\numberline {A8}If you were the examiner of your proposal, how would you present the proposal in another way?}{38}{section.A.8}
 \contentsline {subsection}{\numberline {A8.1}What are the weaknesses of your proposal?}{38}{subsection.A.8.1}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Usage Examples}}{10}{appendix.B}
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Usage Examples}}{40}{appendix.B}
 \contentsline {section}{\numberline {B1}Equations}{41}{section.B.1}
 \contentsline {section}{\numberline {B2}Notations}{43}{section.B.2}
 \contentsline {section}{\numberline {B3}Abbreviation}{49}{section.B.3}
@@ -70,5 +88,5 @@
 \contentsline {section}{\numberline {B10}Index}{69}{section.B.10}
 \contentsline {section}{\numberline {B11}Adding Relevant PDF Pages (e.g. Standards, Datasheets, Specification Sheets, Application Notes, etc.)}{70}{section.B.11}
 \contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Publication List and Award}}{74}{appendix.C}
-\contentsline {appendix}{\chapternumberline {C}\MakeTextUppercase {Vita}}{11}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}\MakeTextUppercase {Vita}}{76}{appendix.D}
 \contentsfinish 

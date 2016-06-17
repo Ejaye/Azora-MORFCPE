@@ -1,0 +1,73 @@
+\begin{thebibliography}{}
+
+\bibitem[Bai and Hung, 2008]{4559539}
+Bai, Y.-W. and Hung, C.-H. (2008).
+\newblock Remote power on/off control and current measurement for home electric
+  outlets based on a low-power embedded board and zigbee communication.
+\newblock In {\em 2008 IEEE International Symposium on Consumer Electronics},
+  pages 1--4.
+
+\bibitem[Bharathi and Suchitha~Samuel, 2013]{Bharathi2013}
+Bharathi, B. and Suchitha~Samuel, B. (2013).
+\newblock Design and construction of rescue robot and pipeline inspection using
+  zigbee.
+\newblock In {\em International Journal of Scientific Engineering and
+  Research}, volume~1.
+
+\bibitem[Campolo et~al., 2012]{6398700}
+Campolo, C., Iera, A., Molinaro, A., Paratore, S.~Y., and Ruggeri, G. (2012).
+\newblock Smartcar: An integrated smartphone-based platform to support traffic
+  management applications.
+\newblock In {\em Vehicular Traffic Management for Smart Cities (VTM), 2012
+  First International Workshop on}, pages 1--6.
+
+\bibitem[Chang-qing and Hai-liang, 2012]{chang2012design}
+Chang-qing, L. and Hai-liang, C. (2012).
+\newblock A design for an intelligent car that controlled by smartphone based
+  on android system and bluetooth communication [j].
+\newblock {\em Shanxi Electronic Technology}, 3:024.
+
+\bibitem[Dao et~al., 2012]{QuDao2012}
+Dao, Q., Jifeng, Y., and Wei, C. (2012).
+\newblock Design of intelligent mobile monitor system based on zigbee and
+  android.
+\newblock {\em Microcontrollers \& Embedded System}, 12(6):10--12.
+
+\bibitem[Kang et~al., 2005]{1501248}
+Kang, S., Lee, W., Kim, M., and Shin, K. (2005).
+\newblock Robhaz-rescue: rough-terrain negotiable teleoperated mobile robot for
+  rescue mission.
+\newblock In {\em IEEE International Safety, Security and Rescue Rototics,
+  Workshop, 2005.}, pages 105--110.
+
+\bibitem[Kim et~al., 2010]{5649481}
+Kim, Y.~D., Kang, J.~H., Sun, D.-H., Moon, J.-I., Ryuh, Y.-S., and An, J.
+  (2010).
+\newblock Design and implementation of user-friendly remote controllers for
+  rescue robots used at fire sites.
+\newblock In {\em Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ
+  International Conference on}, pages 377--382.
+
+\bibitem[m.~Choi et~al., 2006]{4108460}
+m.~Choi, J., k.~Ahn, B., s.~Cha, Y., and y.~Kuc, T. (2006).
+\newblock Remote-controlled home robot server with zigbee sensor network.
+\newblock In {\em 2006 SICE-ICASE International Joint Conference}, pages
+  3739--3743.
+
+\bibitem[Murphy et~al., 2009]{5069840}
+Murphy, R.~R., Kravitz, J., Stover, S.~L., and Shoureshi, R. (2009).
+\newblock Mobile robots in mine rescue and recovery.
+\newblock {\em IEEE Robotics Automation Magazine}, 16(2):91--103.
+
+\bibitem[Rooker and Birk, 2007]{Rooker2007}
+Rooker, M. and Birk, A. (2007).
+\newblock Multi-robot exploration under the constraints of wireless networking.
+\newblock In {\em Control Engineering Practice}, volume~15, pages 435--445.
+
+\bibitem[Yeh et~al., 2008]{4655164}
+Yeh, S.-S., Hsu, C.-C., Shih, T.-C., Hsiao, J.-P., and Hsu, P.-L. (2008).
+\newblock Remote control realization of distributed rescue robots via the
+  wireless network.
+\newblock In {\em SICE Annual Conference, 2008}, pages 2928--2932.
+
+\end{thebibliography}
